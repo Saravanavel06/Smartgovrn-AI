@@ -1,0 +1,6 @@
+application_id,service,status
+DEMO1001,Passport,Under Verification
+DEMO1002,Birth Certificate,Approved
+DEMO1003,Ration Card,Application Received
+DEMO1004,Driving Licence,Ready for Collection
+DEMO1005,Income Certificate,Rejected
